@@ -4,6 +4,14 @@ A modern, responsive Flutter News application built as part of the **EraaSoft Fl
 
 ---
 
+## 📱 App Screenshots
+
+| Home Screen | News Details |
+| :---: | :---: |
+| ![Home Screen](assets/screenshots/home_page.png) | ![News Details](assets/screenshots/detail_page.png) |
+
+---
+
 ## ✨ Features
 
 - **State Management with BLoC (Cubit)**: Clean separation of UI and business logic using `flutter_bloc`.
